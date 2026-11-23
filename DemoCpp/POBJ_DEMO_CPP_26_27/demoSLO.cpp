@@ -107,17 +107,23 @@ int main()
 	//-- end of first demo --// 
 	std::cout << std::endl; 
 
+	//-- new user request --// 
+	std::cout << "Veuiller insérer une valeur pour le dividande  : "; 
+	std::cin >> val_16bits; 
+	std::cout << "Veuiller insérer une valeur pour le diviseur  : ";
+	std::cin >> valDiviseur;
+	
+	//-- function calling for the division  --// 
+	Divide(val_16bits, valDiviseur, valF);
+	std::cout << val_16bits << " / " << valDiviseur << " = " << valF << std::endl;
+	
 
-
-
-	//-- function calling --// 
-	/*Diviser(10, 5, valF);
-	Diviser(valI, 5.5);
-	Diviser()
+	valRetour = Divide((int&)valF, (double)val_16bits);
+	std::cout << val_16bits << " / " << valDiviseur << " = " << valF << std::endl;
 
 
 	//-- example to take a keyboard value --//
-	std::cin >> valI;		// integer value pour valeur entière 
+	/*std::cin >> valI;		// integer value pour valeur entière 
 	std::cin >> valF;		// real value   
 	std::cin >> chaine;		// string with an object 
 	std::cin >> valC; 		// character value

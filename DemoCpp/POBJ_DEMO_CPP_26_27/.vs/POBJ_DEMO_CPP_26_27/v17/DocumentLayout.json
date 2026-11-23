@@ -7,9 +7,6 @@
       "RelativeMoniker": "D:0:0:{DE4028D8-895D-4F6A-A3BD-3609EA1AD41C}|POBJ_DEMO_CPP_23_24.vcxproj|solutionrelative:demoSLO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE4028D8-895D-4F6A-A3BD-3609EA1AD41C}|POBJ_DEMO_CPP_23_24.vcxproj|C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\MesMethodes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DE4028D8-895D-4F6A-A3BD-3609EA1AD41C}|POBJ_DEMO_CPP_23_24.vcxproj|solutionrelative:MesMethodes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -61,21 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "xutility",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\xutility",
-              "ViewState": "AgIAAPQAAAAAAAAAAAAnwP8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-11-18T13:29:33.915Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -84,40 +68,40 @@
               "RelativeDocumentMoniker": "demoSLO.cpp",
               "ToolTip": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\demoSLO.cpp",
               "RelativeToolTip": "demoSLO.cpp",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAnwFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-17T12:11:02.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MesMethodes.cpp",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\MesMethodes.cpp",
               "RelativeDocumentMoniker": "MesMethodes.cpp",
               "ToolTip": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\MesMethodes.cpp",
               "RelativeToolTip": "MesMethodes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-18T10:17:28.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "mesFcts.h",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\mesFcts.h",
               "RelativeDocumentMoniker": "mesFcts.h",
               "ToolTip": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\mesFcts.h",
               "RelativeToolTip": "mesFcts.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-18T09:18:27.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "couteau.h",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\couteau.h",
               "RelativeDocumentMoniker": "couteau.h",
@@ -129,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Armes.cpp",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\Armes.cpp",
               "RelativeDocumentMoniker": "Armes.cpp",
@@ -141,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Armes.h",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\Armes.h",
               "RelativeDocumentMoniker": "Armes.h",
@@ -153,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "personnage.cpp",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\personnage.cpp",
               "RelativeDocumentMoniker": "personnage.cpp",
@@ -166,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "personnage.h",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\personnage.h",
               "RelativeDocumentMoniker": "personnage.h",
@@ -178,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ClassDemo.h",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\ClassDemo.h",
               "RelativeDocumentMoniker": "ClassDemo.h",
@@ -190,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "couteau.cpp",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\couteau.cpp",
               "RelativeDocumentMoniker": "couteau.cpp",
@@ -202,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "user.cpp",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\user.cpp",
               "RelativeDocumentMoniker": "user.cpp",
@@ -214,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "user.h",
               "DocumentMoniker": "C:\\PBY\\GITHUB\\POBJ_Demo_26_27\\DemoCpp\\POBJ_DEMO_CPP_26_27\\user.h",
               "RelativeDocumentMoniker": "user.h",

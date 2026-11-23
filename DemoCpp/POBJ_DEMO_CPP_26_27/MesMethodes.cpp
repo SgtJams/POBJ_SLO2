@@ -2,7 +2,7 @@
 // Project Name			: POBJ DEMO C++
 // File Name	 		: demoSLO.cpp
 // creation date 		: 21.11.2023
-// modification date	: 18.11.2025
+// modification date	: 23.11.2026
 //
 // Auteur 				: Philou (Ph. Bovey)
 // 
@@ -50,14 +50,14 @@ void Convertir(int valAConv, char (&binaire)[100])
 
 
 /* ----------------------------------------------------------------------------------
-// Function Name		: Diviser 
-// input parameters		: v1 => var1 (real 4o), var2 (integer 4o signed) 
-//						  v2 => var1 (real 4o), var2 (real 4o) 
-//						  v3 => var1 (real 8o), var2 (real 8o) 
+// Function Name		: Divide 
+// input parameters		: v1 => dividing (real 4o), divider (integer 4o signed) 
+//						  v2 => dividing (real 4o), divider (real 4o) 
+//						  v3 => dividing (real 8o), divider (real 8o) 
 // output parameters	: v1 => -
 //						  v2 => integer 4o signed
 //						  v3 => same think that the v1 
-// reference parameters : v1 => result (real 4o) 
+// reference parameters : v1 => realQuotient (real 4o) 
 //					      v2 => same think that the v1 
 //						  v3 => result (integer 4o signed) 
 // descrription			: performs a simple division 
@@ -65,21 +65,21 @@ void Convertir(int valAConv, char (&binaire)[100])
 // remark				: the various functions below are overloaded 
 ---------------------------------------------------------------------------------- */
 //-- primary function (v1)
-void Diviser(float var1, int var2, float &result)
+void Divide(float dividing, int divider, float &realQuotient)
 {
-	result = var1 / var2;
+	realQuotient = dividing / divider;
 }
 
 //-> overloaded function (v2)
-int Diviser(float var1, float var2, float &result)
+int Divide(float dividing, float divider, float &realQuotient)
 {
-	return result = var1 / var2;
+	return realQuotient = dividing / divider;
 }
 
 //-> overloaded function (v3)
-int Diviser(int &result, double var1, double var2)
+int Divide(int &realQuotient, double dividing, double divider)
 {
-	return result = var1 / var2;
+	return realQuotient = dividing / divider;
 }
 
 //-- A TESTER avec pointeur null --// 

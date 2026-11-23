@@ -17,13 +17,14 @@
 #define MES_FCTS_H 
 
 #define NB_MAX_ALPHABET 26
+#define BASE_10			10
 
 
 //-- prototype with "surcharge" concept --//
 //-- WARNING : if the oupput is only modified, this is not equivalent to on "surcharge"
-void Diviser(float var1, int var2, float& result);				// prototype 1
-int Diviser(float var1, float var2, float& result);				// prototype 2 -> Surcharge 
-int Diviser(int& result, double var1, double var2 = 10);		// prototype 3 -> surcharge and default value
+void Divide(float dividing, int divider, float& realQuotient);		// prototype 1
+int Divide(float dividing, float divider, float& realQuotient);		// prototype 2 -> Surcharge 
+int Divide(int& realQuotient, double dividing, double divider = BASE_10);		// prototype 3 -> surcharge and default value
 //void Diviser(void* pt, int var2, float& result); 
 
 #endif // !MES_FCTS_H
